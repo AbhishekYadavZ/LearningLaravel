@@ -1,3 +1,17 @@
 body{
 	font-family:"boschsans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.instruction-head{
+	padding-top:1.2rem;
+	font-size:1.2rem; 
+	text-decoration: underline;
+	font-weight: bolder;
+}
+.instruction-list{
+	font-size:0.9rem;
+}
+.footer {
+	position: relative;
+	clear:both;
+  } 
